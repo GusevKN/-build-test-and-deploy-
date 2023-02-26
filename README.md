@@ -1,2 +1,2 @@
-# -build-test-and-deploy-
+# Система сборки -build-test-and-deploy-
 Учёба
