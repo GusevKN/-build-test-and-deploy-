@@ -5,7 +5,7 @@ push:
     branches:
       - main
       - feature/github_actions
-
+pull-request:
 jobs:
   build:
     runs-on: ubuntu-latest
